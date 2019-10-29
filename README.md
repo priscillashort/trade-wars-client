@@ -1,6 +1,6 @@
 # Trade Wars Client
 
-Priscilla adding some stuff - 1st change
+Justin changing the first line of the file`
 
 Well, can't you see that it's just raining?
 There ain't no need to go outside
